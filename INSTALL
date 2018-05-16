@@ -1,0 +1,5 @@
+Building Yaycoin
+
+See doc/build-*.md for instructions on building Yaycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Yaycoin.
